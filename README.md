@@ -1,6 +1,5 @@
 # SCSS Project
-
-![SCSS Logo](./img/tur.gif) 
+![]([https://example.com/my-gif.gif](https://share.getcloudapp.com/geuPKjQp))
 
 ## Introduction
 
