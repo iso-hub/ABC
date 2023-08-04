@@ -1,54 +1,31 @@
-# SCSS-Lesson-Material
-![ezgif com-video-to-gif (3)](https://github.com/fhasancelik/SCSS-Lesson-Material/assets/123208180/eceec6f4-7d1c-479a-8721-74e336885dc3)
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SCSSProje - Kullanıcı: fhasanc</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f8f8f8;
-        }
-        h1 {
-            color: #007bff;
-        }
-        h2 {
-            color: #00a000;
-        }
-        p {
-            margin-bottom: 10px;
-        }
-        code {
-            background-color: #f8f8f8;
-            padding: 2px 5px;
-            font-family: Consolas, monospace;
-        }
-    </style>
-</head>
-<body>
-    <h1>SCSSProje</h1>
-    <p>Merhaba, bu repoda SCSSProje adında bir projeye hoş geldiniz! Bu proje, SCSS (Sassy CSS) preprocessor'ını kullanarak CSS dosyalarını yönetmeyi amaçlamaktadır. Kullanıcı <code>fhasanc</code> tarafından oluşturulmuştur.</p>
-    <h2>Proje Hakkında</h2>
-    <p>Bu proje, modern web projelerinde daha organize ve yönetilebilir CSS dosyaları oluşturmak için SCSS kullanımını vurgulamaktadır. SCSS, CSS yazarken daha etkin bir şekilde çalışmayı sağlar ve kod tekrarını azaltır.</p>
-    <h2>Proje Kullanımı</h2>
-    <p>Proje dosyalarını indirip çalıştırmak için aşağıdaki adımları izleyebilirsiniz:</p>
-    <ol>
-        <li>Projeyi klonlayın veya ZIP dosyası olarak indirin.</li>
-        <li>Proje klasörüne gidin ve <code>index.html</code> dosyasını açın.</li>
-        <li>Proje içeriğini görmek ve SCSS dosyalarını düzenlemek için bir metin düzenleyici veya IDE kullanın.</li>
-        <li>SCSS dosyalarını değiştirdikten sonra, değişiklikleri derlemek için SCSS compiler kullanın ve CSS dosyalarını oluşturun.</li>
-        <li>Projenizi tarayıcınızda görüntüleyin ve test edin.</li>
-    </ol>
-    <h2>Lisans</h2>
-    <p>Bu proje <a href="#">MIT Lisansı</a> ile lisanslanmıştır. Detaylı bilgi için lisans dosyasını kontrol edin.</p>
-    <h2>İletişim</h2>
-    <p>Eğer projeye katkıda bulunmak, bir sorun bildirmek veya başka bir konuda iletişime geçmek isterseniz, lütfen bu projenin iletişim bölümünü ziyaret edin.</p>
+# SCSS Project
 
-</body>
-</html>
+![SCSS Logo](./img/tur.gif) 
+
+## Introduction
+
+Hello, welcome to this SCSS (Sassy CSS) project! The main objective of this project is to manage CSS files using the SCSS preprocessor.
+
+## Purpose
+
+The purpose of this project is to emphasize the usage of SCSS in modern web development to create more organized and manageable CSS files. SCSS allows for more efficient work when writing CSS and reduces code duplication.
+
+## Features
+
+- Utilizes SCSS preprocessor for better CSS management.
+- Organizes CSS code effectively for easy maintenance.
+- Reduces code repetition through the power of SCSS mixins and variables.
+- Easy-to-understand folder structure for different SCSS modules.
+- Provides a foundation for building responsive and stylish websites.
+
+## Usage
+
+Feel free to use this project as a starting point for your own web development projects. Modify, expand, and build upon it according to your needs. Happy coding!
+
+## Contributing
+
+If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Your contributions are always welcome.
+
+
+
+#
